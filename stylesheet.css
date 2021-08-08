@@ -10,4 +10,9 @@
 
 .News a {
   text-decoration: none;
+  color: #3E5FB5;
+}
+
+a:hover {
+    color: #F71156;
 }
