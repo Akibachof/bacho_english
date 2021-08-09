@@ -8,6 +8,16 @@
   text-align: center;
 }
 
+.click {
+  font-size: 25px;
+}
+
+.click:hover {
+  /*color: #ff6633;*/
+  color: #ff9e1b;
+  transition: 0.1s;
+}
+
 .News a {
   text-decoration: none;
   color: #3E5FB5;
