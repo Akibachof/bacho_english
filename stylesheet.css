@@ -19,7 +19,7 @@
 }
 
 details[open] .News {
-  animation: fadeIn 0.5s ease
+  animation: fadeIn 1.0s ease
 }
 
 @keyframes fadeIn {
@@ -32,6 +32,8 @@ details[open] .News {
     transform: none;
   }
 }
+
+
 
 .News a {
   text-decoration: none;
