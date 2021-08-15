@@ -22,6 +22,17 @@ details[open] .News {
   animation: fadeIn 0.5s ease
 }
 
+@keyframes fadeIn {
+  0% {
+    opacity: 0; /* 透明 */
+    transform: translateY(-10px); /* 上から表示 */
+  }
+  100% {
+    opacity: 1;
+    transform: none;
+  }
+}
+
 .News a {
   text-decoration: none;
   color: #3E5FB5;
