@@ -19,7 +19,7 @@
 }
 
 details[open] .News {
-  animation: fadeIn 0.5s ease;
+  animation: fadeIn 0.5s ease
 }
 
 .News a {
