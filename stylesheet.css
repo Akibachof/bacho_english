@@ -18,6 +18,10 @@
   transition: 0.1s;
 }
 
+details[open] .News {
+  animation: fadeIn 0.5s ease;
+}
+
 .News a {
   text-decoration: none;
   color: #3E5FB5;
